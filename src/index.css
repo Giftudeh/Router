@@ -1,0 +1,7 @@
+.navbar{
+    display: flex;
+    gap: 3;
+}
+.navbar a {
+    text-decoration: none;
+}
